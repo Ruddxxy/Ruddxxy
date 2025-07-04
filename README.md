@@ -25,7 +25,7 @@
 - **Frameworks/Tech:** ReactJS, Flutter, MongoDB, Supabase, PostgreSQL, Matplotlib, Numpy, Seaborn, Keras  
 - **Developer Tools:** VS Code, Vim, Git, Jupyter Notebook, Sublime  
 - **Operating Systems:** Windows, MacOS, Kali Linux, Ubuntu, Black Arch, Parrot OS
-- **Tools(Pentesting):**Hydra, Metasploit, msfvenom, nmap, 
+- **Tools(Pentesting):** Hydra, Metasploit, msfvenom, Nmap, Wireshark, John The Ripper, nikto, wifite
 
 ---
 
