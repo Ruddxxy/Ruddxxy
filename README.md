@@ -7,6 +7,7 @@
   <a href="https://github.com/Ruddxxy"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/u/Ruddxy69/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://tryhackme.com/p/Ruddyignite23"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"></a>
+  <a href="https://app.hackthebox.com/profile/2280861"><img src="https://img.shields.io/badge/-HackTheBox-212C42?style=for-the-badge&logo=hackthebox&logoColor=53DF00"></a>
 </p>
 
 ---
