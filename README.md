@@ -71,18 +71,19 @@ root@user:~$ ./init.sh
 
 <div align="center">
   <h3>📡 Secure Uplink</h3>
-  <a href="[LINKEDIN_URL]">
+  <a href=https://www.linkedin.com/in/rudra2/>
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[LEETCODE_URL]">
+  <a href=https://leetcode.com/u/Ruddxy69/>
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="[TRYHACKME_URL]">
+  <a href=https://tryhackme.com/p/Ruddyignite23>
     <img src="https://img.shields.io/badge/TRYHACKME-C21F30?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="[HACKTHEBOX_URL]">
+  <a href=https://app.hackthebox.com/users/2280861>
     <img src="https://img.shields.io/badge/HACKTHEBOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
   <br><br>
+<a href=https://www.fiverr.com/s/P2Yo9bE>
   <img src="https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </div>
