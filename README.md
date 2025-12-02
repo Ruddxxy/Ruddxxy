@@ -1,64 +1,88 @@
-<h1 align="center">Hi 👋, I'm Rudra Narayan Mohapatro</h1>
-<h3 align="center">Just A Computer Science student at NIT Rourkela passionate about AI, Innovation & Cybersecurity</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rudra_Mohapatro&fontSize=80&fontAlignY=35&desc=CyberSecurity_Researcher&FullStack_Developer&descAlignY=60&descSize=25&fontColor=ffffff)
 
-<p align="center">
-  <a href="https://linkedin.com/in/rudra2"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rudranarayanmohapatro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Ruddxxy"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://leetcode.com/u/Ruddxy69/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://tryhackme.com/p/Ruddyignite23"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"></a>
-  <a href="https://app.hackthebox.com/profile/2280861"><img src="https://img.shields.io/badge/-HackTheBox-212C42?style=for-the-badge&logo=hackthebox&logoColor=53DF00"></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruddxy&color=00f2ff" alt="Profile Views" />
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ruddxy&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</div>
 
----
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- 🎓 **B.Tech in Computer Science and Engineering**  
-  National Institute of Technology, Rourkela (2022 - Present)
+```bash
+root@user:~$ ./init.sh
+> INITIALIZING CYBER_DECK...
+> LOADING KERNEL MODULES... [OK]
+> MOUNTING FILE SYSTEMS... [OK]
+> ESTABLISHING SECURE UPLINK... [CONNECTED]
+> WELCOME, OPERATOR.
+```
 
-- 🚀 **Current Interests:**  
-  Systems Programming, Implementing Security norms, Building CLI tools, and exploring Machine Learning.
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">///TECHNICAL_ARSENAL///</h3>
+      <div align="center">
+        <!-- LANGUAGES -->
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <br>
+        <!-- SECURITY -->
+        <img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+        <img src="https://img.shields.io/badge/METASPLOIT-102535?style=for-the-badge&logo=metasploit&logoColor=white" />
+        <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <br>
+        <!-- INFRA -->
+        <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      </div>
+    <td width="50%" valign="top">
+      <h3 align="center">/// NETWORK_INTELLIGENCE ///</h3>
+      <div align="center">
+        <!-- SYSTEM_UPTIME (Streak) -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruddxy&theme=dark&background=000000&border=00F2FF&stroke=00F2FF&ring=00F2FF&fire=00F2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F2FF&sideLabels=00F2FF&dates=FFFFFF&hide_border=true" />
+        <br>
+        <!-- SIGNAL_TRACE (Activity) -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruddxy&bg_color=000000&color=00F2FF&line=00F2FF&point=FFFFFF&area=true&hide_border=true&hide_title=true" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Technical Skills
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- **Languages:** Python, C, C++, Dart, JavaScript, TypeScript, HTML, CSS  
-- **Frameworks/Tech:** ReactJS, Flutter, MongoDB, Supabase, PostgreSQL, Matplotlib, Numpy, Seaborn, Keras  
-- **Developer Tools:** VS Code, Vim, Git, Jupyter Notebook, Sublime  
-- **Operating Systems:** Windows, MacOS, Kali Linux, Ubuntu, Black Arch, Parrot OS
-- **Tools(Pentesting):** Hydra, Metasploit, msfvenom, Nmap, Wireshark, John The Ripper, nikto, wifite
+<h3 align="center">/// DEPLOYMENT_LOG ///</h3>
 
----
+| DEPLOYMENT | CLASS | DESCRIPTION | STACK |
+|:---|:---:|:---|:---:|
+| **[ARGUS]** | 🛡️ Sec | Hybrid ML security engine detecting obfuscated XSS payloads via Deep AST traversal and ensemble anomaly detection (Isolation Forest + Random Forest). | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[PHALANX]** | 🔌 Sys | High-concurrency HTTP proxy firewall engineered in C, enforcing per-IP rate limiting and real-time SQLi/XSS packet filtering. | ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **[CHIMERA]** | 🤖 AI | Institutional-grade, event-driven trading engine fusing LSTM trend detection with XGBoost regime filtering." | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-## 🚀 Projects
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### 🐚 [Akira](https://github.com/Ruddxxy/Akira)
-> *Go, Shell Scripting, CI/CD*  
-- Built a shell-agnostic CLI tool with fuzzy matching, inline suggestions & context-aware auto-completion.  
-- Integrated smart file/path completion, alias expansion, private command filtering, and plugin-based architecture.  
-- Automated CI/CD pipelines and packaged for cross-platform deployment.
-
-### 🛒 [Shopx](https://github.com/Ruddxxy/Shopx)
-> *Flutter, Supabase, PostgreSQL, REST API*  
-- Developed a cross-platform e-commerce app with a relational database schema & robust CRUD operations.  
-- Engineered a dynamic UI with efficient state management and responsive design.
-
----
-
-## 🏅 Achievements & Certifications
-
-- **Cyber Safety and Security** — Completed a short-term course on cybersecurity (Oct 2024)
-- **Trends on CyberSecurity and Ethical Hacking** — Hands-on practice with multiple pentesting tools & techniques (Oct 2024)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruddxxy&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruddxxy&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
-<h3 align="center">Let's connect & build something awesome together! 🚀</h3>
+<div align="center">
+  <h3>📡 Secure Uplink</h3>
+  <a href="[LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[LEETCODE_URL]">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="[TRYHACKME_URL]">
+    <img src="https://img.shields.io/badge/TRYHACKME-C21F30?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="[HACKTHEBOX_URL]">
+    <img src="https://img.shields.io/badge/HACKTHEBOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</div>
