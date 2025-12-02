@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rudra_Mohapatro&fontSize=80&fontAlignY=35&desc=CyberSecurity_Researcher&FullStack_Developer&descAlignY=60&descSize=25&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rudra_Mohapatro&fontSize=80&fontAlignY=35&desc=CyberSecurity_Researcher_and_Full_Stack_Developer&descAlignY=60&descSize=25&fontColor=ffffff)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ruddxy&color=00f2ff" alt="Profile Views" />
