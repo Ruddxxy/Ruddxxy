@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rudra_Mohapatro&fontSize=80&fontAlignY=35&desc=CyberSecurity_Researcher_and_Full_Stack_Developer&descAlignY=60&descSize=25&fontColor=ffffff)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruddxy&color=00f2ff" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ruddxxy&color=00f2ff" alt="Profile Views" />
 </div>
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
